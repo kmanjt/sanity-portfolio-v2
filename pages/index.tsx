@@ -29,7 +29,7 @@ type Props = {
 export default function Home({pageInfo, experiences, skills, projects, socials}: Props) {
   return (
     <div className='bg-[#ecf0f3] text-[#1f2937] h-screen snap-y snap-mandatory overflow-scroll z-0 scrollbar scrollbar-track-gray-400/20 scrollbar-thumb-[#5a87c5]/80
-     scroll-smooth'>
+     scroll-smooth overflow-x-hidden'>
       <Head>
         <title>Kevin's Portfolio</title>
         <meta name="description" content="Nextjs Sanity Ts Portfolio" />
