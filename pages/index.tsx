@@ -31,8 +31,8 @@ export default function Home({pageInfo, experiences, skills, projects, socials}:
     <div className='bg-[#ecf0f3] text-[#1f2937] h-screen snap-y snap-mandatory overflow-scroll z-0 scrollbar scrollbar-track-gray-400/20 scrollbar-thumb-[#5a87c5]/80
      scroll-smooth overflow-x-hidden'>
       <Head>
-        <title>Kevin's Portfolio</title>
-        <meta name="description" content="Nextjs Sanity Ts Portfolio" />
+        <title>Kevin | CS Student/Developer</title>
+        <meta name="description" content="I'm a Computer Science student and an aspiring Fullstack Developer." />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
